@@ -1,0 +1,1 @@
+pnpm workspaces + Turborepo v2 for monorepo task orchestration; Docker Compose with `pgvector/pg16` (PostgreSQL + vector embeddings) and `redis:7-alpine`; Next.js output artifacts (`dist/**`, `.next/**`) indicating a Next.js frontend; TypeScript toolchain via devDependencies.

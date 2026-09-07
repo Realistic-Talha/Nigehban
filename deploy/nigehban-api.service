@@ -1,0 +1,13 @@
+[Unit]
+Description=Nigehban API
+After=network.target docker.service
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/nigehban/apps/api
+EnvironmentFile=/opt/nigehban/.env
+ExecStart=/usr/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

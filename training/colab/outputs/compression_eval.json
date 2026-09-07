@@ -1,0 +1,12 @@
+{
+  "onnx_present": true,
+  "method": "synthetic_face_proxy_plus_jpeg40_max720",
+  "samples": [
+    {
+      "p_raw": 0.9541213512420654,
+      "p_whatsappish": 0.9414550065994263,
+      "delta": -0.01266634464263916
+    }
+  ],
+  "note": "domain_shift_warning remains; Wikimedia sample 403 — synthetic proxy records JPEG score drift only"
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "pattern_text": "SBP loan approved send OTP to release funds variant 1",
+    "scam_type": "phishing",
+    "description_en": "Known Pakistani scam pattern #1",
+    "description_ur": "Pattern 1",
+    "times_reported": 1
+  },
+  {
+    "pattern_text": "Your account suspended verify PIN immediately variant 2",
+    "scam_type": "job_scam",
+    "description_en": "Known Pakistani scam pattern #2",
+    "description_ur": "Pattern 2",
+    "times_reported": 2
+  },
+  {
+    "pattern_text": "Work from home earn 80000 PKR send registration fee variant 3",
+    "scam_type": "investment_ponzi",
+    "description_en": "Known Pakistani scam pattern #3",
+    "description_ur": "Pattern 3",
+    "times_reported": 3
+  },
+  {
+    "pattern_text": "Congratulations you won iPhone pay customs fee variant 4",
+    "scam_type": "lottery_prize",
+    "description_en": "Known Pakistani scam pattern #4",
+    "description_ur": "Pattern 4",
+    "times_reported": 4
+  },
+  {
+    "pattern_text": "BISP Ehsaas payment send CNIC and bank details variant 5",
+    "scam_type": "fake_govt",
+    "description_en": "Known Pakistani scam pattern #5",
+    "description_ur": "Pattern 5",
+    "times_reported": 5
+  },
+  {
+    "pattern_text": "OLX buyer will pay via link click to receive money variant 6",
+    "scam_type": "marketplace",
+    "description_en": "Known Pakistani scam pattern #6",
+    "description_ur": "Pattern 6",
+    "times_reported": 6
+  },
+  {
+    "pattern_text": "FIA cyber crime fine pay now avoid arrest variant 7",
+    "scam_type": "romance",
+    "description_en": "Known Pakistani scam pattern #7",
+    "description_ur": "Pattern 7",
+    "times_reported": 7
+  },
+  {
+    "pattern_text": "Free solar panel scheme register with advance payment variant 8",
+    "scam_type": "other",
+    "description_en": "Known Pakistani scam pattern #8",
+    "description_ur": "Pattern 8",
+    "times_reported": 8
+  },
+  {
+    "pattern_text": "Crypto guaranteed 300 percent returns join WhatsApp group variant 9",
+    "scam_type": "phishing",
+    "description_en": "Known Pakistani scam pattern #9",
+    "description_ur": "Pattern 9",
+    "times_reported": 9
+  },
+  {
+    "pattern_text": "Bank security update share your card number variant 10",
+    "scam_type": "job_scam",
+    "description_en": "Known Pakistani scam pattern #10",
+    "description_ur": "Pattern 10",
+    "times_reported": 10
+  },
+  {
+    "pattern_text": "SBP loan approved send OTP to release funds variant 11",
+    "scam_type": "investment_ponzi",
+    "description_en": "Known Pakistani scam pattern #11",
+    "description_ur": "Pattern 11",
+    "times_reported": 1
+  },
+  {
+    "pattern_text": "Your account suspended verify PIN immediately variant 12",
+    "scam_type": "lottery_prize",
+    "description_en": "Known Pakistani scam pattern #12",
+    "description_ur": "Pattern 12",
+    "times_reported": 2
+  },
+  {
+    "pattern_text": "Work from home earn 80000 PKR send registration fee variant 13",
+    "scam_type": "fake_govt",
+    "description_en": "Known Pakistani scam pattern #13",
+    "description_ur": "Pattern 13",
+    "times_reported": 3
+  },
+  {
+    "pattern_text": "Congratulations you won iPhone pay customs fee variant 14",
+    "scam_type": "marketplace",
+    "description_en": "Known Pakistani scam pattern #14",
+    "description_ur": "Pattern 14",
+    "times_reported": 4
+  },
+  {
+    "pattern_text": "BISP Ehsaas payment send CNIC and bank details variant 15",
+    "scam_type": "romance",
+    "description_en": "Known Pakistani scam pattern #15",
+    "description_ur": "Pattern 15",
+    "times_reported": 5
+  },
+  {
+    "pattern_text": "OLX buyer will pay via link click to receive money variant 16",
+    "scam_type": "other",
+    "description_en": "Known Pakistani scam pattern #16",
+    "description_ur": "Pattern 16",
+    "times_reported": 6
+  },
+  {
+    "pattern_text": "FIA cyber crime fine pay now avoid arrest variant 17",
+    "scam_type": "phishing",
+    "description_en": "Known Pakistani scam pattern #17",
+    "description_ur": "Pattern 17",
+    "times_reported": 7
+  },
+  {
+    "pattern_text": "Free solar panel scheme register with advance payment variant 18",
+    "scam_type": "job_scam",
+    "description_en": "Known Pakistani scam pattern #18",
+    "description_ur": "Pattern 18",
+    "times_reported": 8
+  },
+  {
+    "pattern_text": "Crypto guaranteed 300 percent returns join WhatsApp group variant 19",
+    "scam_type": "investment_ponzi",
+    "description_en": "Known Pakistani scam pattern #19",
+    "description_ur": "Pattern 19",
+    "times_reported": 9
+  },
+  {
+    "pattern_text": "Bank security update share your card number variant 20",
+    "scam_type": "lottery_prize",
+    "description_en": "Known Pakistani scam pattern #20",
+    "description_ur": "Pattern 20",
+    "times_reported": 10
+  },
+  {
+    "pattern_text": "SBP loan approved send OTP to release funds variant 21",
+    "scam_type": "fake_govt",
+    "description_en": "Known Pakistani scam pattern #21",
+    "description_ur": "Pattern 21",
+    "times_reported": 1
+  },
+  {
+    "pattern_text": "Your account suspended verify PIN immediately variant 22",
+    "scam_type": "marketplace",
+    "description_en": "Known Pakistani scam pattern #22",
+    "description_ur": "Pattern 22",
+    "times_reported": 2
+  },
+  {
+    "pattern_text": "Work from home earn 80000 PKR send registration fee variant 23",
+    "scam_type": "romance",
+    "description_en": "Known Pakistani scam pattern #23",
+    "description_ur": "Pattern 23",
+    "times_reported": 3
+  },
+  {
+    "pattern_text": "Congratulations you won iPhone pay customs fee variant 24",
+    "scam_type": "other",
+    "description_en": "Known Pakistani scam pattern #24",
+    "description_ur": "Pattern 24",
+    "times_reported": 4
+  },
+  {
+    "pattern_text": "BISP Ehsaas payment send CNIC and bank details variant 25",
+    "scam_type": "phishing",
+    "description_en": "Known Pakistani scam pattern #25",
+    "description_ur": "Pattern 25",
+    "times_reported": 5
+  },
+  {
+    "pattern_text": "OLX buyer will pay via link click to receive money variant 26",
+    "scam_type": "job_scam",
+    "description_en": "Known Pakistani scam pattern #26",
+    "description_ur": "Pattern 26",
+    "times_reported": 6
+  },
+  {
+    "pattern_text": "FIA cyber crime fine pay now avoid arrest variant 27",
+    "scam_type": "investment_ponzi",
+    "description_en": "Known Pakistani scam pattern #27",
+    "description_ur": "Pattern 27",
+    "times_reported": 7
+  },
+  {
+    "pattern_text": "Free solar panel scheme register with advance payment variant 28",
+    "scam_type": "lottery_prize",
+    "description_en": "Known Pakistani scam pattern #28",
+    "description_ur": "Pattern 28",
+    "times_reported": 8
+  },
+  {
+    "pattern_text": "Crypto guaranteed 300 percent returns join WhatsApp group variant 29",
+    "scam_type": "fake_govt",
+    "description_en": "Known Pakistani scam pattern #29",
+    "description_ur": "Pattern 29",
+    "times_reported": 9
+  },
+  {
+    "pattern_text": "Bank security update share your card number variant 30",
+    "scam_type": "marketplace",
+    "description_en": "Known Pakistani scam pattern #30",
+    "description_ur": "Pattern 30",
+    "times_reported": 10
+  }
+]

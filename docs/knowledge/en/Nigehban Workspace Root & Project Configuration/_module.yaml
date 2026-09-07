@@ -1,0 +1,15 @@
+schema_version: 1
+module_path: ""
+title: Nigehban Workspace Root & Project Configuration
+scope:
+    - .gitignore
+    - docker-compose.yml
+    - package.json
+    - pnpm-workspace.yaml
+    - turbo.json
+    - bun.lock
+    - docs/
+    - .env.example
+source_files: []
+depends_on: []
+related_to: []

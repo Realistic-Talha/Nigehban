@@ -1,0 +1,40 @@
+{"id":"s1","text":"URGENT: JazzCash OTP required. Send code to 03001112233.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s2","text":"FIA notice: pay fine via EasyPaisa now or face arrest. Send OTP to 03009998877.","label":1,"expect_min_p":0.45,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s3","text":"BISP funds: share CNIC 35202-1234567-1 to receive payment.","label":1,"expect_min_p":0.45,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s4","text":"Meeting at 4pm, please bring laptop.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s5","text":"Eid Mubarak! Family dinner at ammi ke ghar tonight.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s6","text":"foran otp bhejo warna account block ho jayega jazzcash","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s7","text":"Please bring printed notes for tomorrow's class discussion.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s8","text":"http://192.168.1.9/nadra-verify Send CNIC now","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s9","text":"Assalam o Alaikum, aaj dinner pe aa jana Lahore.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s10","text":"NayaPay security: verify account yahan click karein http://nayapay-secure.xyz/login","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s11","text":"SadaPay OTP mat share karo kisi se — yeh official reminder hai.","label":0,"expect_max_p":0.7,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s12","text":"Your JazzCash PIN expire ho gaya. Naya PIN set karne ke liye OTP 03001234567 pe bhejein.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s13","text":"Ehsaas program: Rs 12000 claim — CNIC aur JazzCash number reply karein.","label":1,"expect_min_p":0.45,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s14","text":"Library book return due next Monday — renew online if needed.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s15","text":"NADRA record expire — update ke liye link: http://nadra-update.tk/cnic","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s16","text":"Kal cricket match dekhne chalenge?","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s17","text":"EasyPaisa: aapka account block hone wala hai. Foran PIN confirm karein is number pe.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s18","text":"Weather looks clear for the weekend hike near Murree.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s19","text":"Prize bond jeet gaye ho — tax clear karne OTP bhejo FIA desk.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s20","text":"Team sync tomorrow morning; bring your project notes.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s21","text":"Recharge kar lo apne number pe jab free ho — koi link nahi.","label":0,"expect_max_p":0.7,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s22","text":"UBL account verify: CNIC photo aur OTP is chat mein bhejein warna hold.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s23","text":"Raat ko ghar pe chai peena hai?","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s24","text":"Mezan Bank: suspicious login detected. Confirm PIN at http://mezan-secure.click/otp","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s25","text":"Bhai petrol pump pe milte hain 7 baje.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s26","text":"Loan approved Rs 5 lakh — processing fee JazzCash OTP se pay karein abhi.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s27","text":"School fee challan number 4412 paid successfully.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s28","text":"kisi ko mat batana — secret code 884411 EasyPaisa transfer ke liye.","label":1,"expect_min_p":0.45,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s29","text":"PTA SIM blocking notice: CNIC verify karne ke liye OTP share karein 03009876543.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s30","text":"Juma Mubarak, duaon mein yaad rakhna.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s31","text":"Alfalah internet banking password reset — click http://alfalah-login.xyz","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s32","text":"Grocery list: doodh, anday, roti.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s33","text":"Customs duty pending parcel — pay via JazzCash link http://bit.ly/pk-customs-pay","label":1,"expect_min_p":0.45,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s34","text":"Doctor appointment rescheduled to Tuesday 3pm.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s35","text":"Call ammi when you reach home safely.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s36","text":"Account freeze — FBR tax dues. OTP bhejo warna warrant.","label":1,"expect_min_p":0.5,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s37","text":"University result announced on portal — login with student ID.","label":0,"expect_max_p":0.65,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s38","text":"Win iPhone 15 — JazzCash mein 1 rupay bhejo entry ke liye.","label":1,"expect_min_p":0.45,"expect_verdict_in":["likely_scam","needs_caution"]}
+{"id":"s39","text":"Driver aa gaya hai gate pe.","label":0,"expect_max_p":0.55,"expect_verdict_in":["likely_safe","needs_caution"]}
+{"id":"s40","text":"Reminder: never share one-time passwords with callers claiming to be bank staff.","label":0,"expect_max_p":0.75,"expect_verdict_in":["likely_safe","needs_caution"]}

@@ -1,0 +1,51 @@
+name: Nigehban CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  api-tests:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: pgvector/pgvector:pg16
+        env:
+          POSTGRES_USER: nigehban
+          POSTGRES_PASSWORD: nigehban
+          POSTGRES_DB: nigehban
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+      redis:
+        image: redis:7-alpine
+        ports:
+          - 6379:6379
+
+    env:
+      DATABASE_URL: postgresql+asyncpg://nigehban:nigehban@localhost:5432/nigehban
+      REDIS_URL: redis://localhost:6379/0
+      LLM_PROVIDER: mock
+      SEARCH_PROVIDER: mock
+      WORKER_INLINE: "false"
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install API dependencies
+        run: |
+          pip install hatchling
+          pip install "./apps/api[dev]"
+      - name: Run migrations
+        working-directory: apps/api
+        run: alembic upgrade head
+      - name: Run tests
+        working-directory: apps/api
+        run: pytest tests -q

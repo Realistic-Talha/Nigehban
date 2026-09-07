@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Sample claim 1",
+    "body": "Sample body 1",
+    "category": "politics",
+    "verdict": "unverified",
+    "confidence_score": 55,
+    "explanation_en": "EN 1",
+    "explanation_ur": "UR 1",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 2",
+    "body": "Sample body 2",
+    "category": "health",
+    "verdict": "misleading",
+    "confidence_score": 56,
+    "explanation_en": "EN 2",
+    "explanation_ur": "UR 2",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 3",
+    "body": "Sample body 3",
+    "category": "finance",
+    "verdict": "misleading",
+    "confidence_score": 57,
+    "explanation_en": "EN 3",
+    "explanation_ur": "UR 3",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 4",
+    "body": "Sample body 4",
+    "category": "disaster",
+    "verdict": "false",
+    "confidence_score": 58,
+    "explanation_en": "EN 4",
+    "explanation_ur": "UR 4",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 5",
+    "body": "Sample body 5",
+    "category": "celebrity",
+    "verdict": "misleading",
+    "confidence_score": 59,
+    "explanation_en": "EN 5",
+    "explanation_ur": "UR 5",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 6",
+    "body": "Sample body 6",
+    "category": "other",
+    "verdict": "unverified",
+    "confidence_score": 60,
+    "explanation_en": "EN 6",
+    "explanation_ur": "UR 6",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 7",
+    "body": "Sample body 7",
+    "category": "politics",
+    "verdict": "false",
+    "confidence_score": 61,
+    "explanation_en": "EN 7",
+    "explanation_ur": "UR 7",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 8",
+    "body": "Sample body 8",
+    "category": "health",
+    "verdict": "misleading",
+    "confidence_score": 62,
+    "explanation_en": "EN 8",
+    "explanation_ur": "UR 8",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 9",
+    "body": "Sample body 9",
+    "category": "finance",
+    "verdict": "misleading",
+    "confidence_score": 63,
+    "explanation_en": "EN 9",
+    "explanation_ur": "UR 9",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 10",
+    "body": "Sample body 10",
+    "category": "disaster",
+    "verdict": "false",
+    "confidence_score": 64,
+    "explanation_en": "EN 10",
+    "explanation_ur": "UR 10",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 11",
+    "body": "Sample body 11",
+    "category": "celebrity",
+    "verdict": "unverified",
+    "confidence_score": 65,
+    "explanation_en": "EN 11",
+    "explanation_ur": "UR 11",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 12",
+    "body": "Sample body 12",
+    "category": "other",
+    "verdict": "misleading",
+    "confidence_score": 66,
+    "explanation_en": "EN 12",
+    "explanation_ur": "UR 12",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 13",
+    "body": "Sample body 13",
+    "category": "politics",
+    "verdict": "false",
+    "confidence_score": 67,
+    "explanation_en": "EN 13",
+    "explanation_ur": "UR 13",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 14",
+    "body": "Sample body 14",
+    "category": "health",
+    "verdict": "misleading",
+    "confidence_score": 68,
+    "explanation_en": "EN 14",
+    "explanation_ur": "UR 14",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 15",
+    "body": "Sample body 15",
+    "category": "finance",
+    "verdict": "misleading",
+    "confidence_score": 69,
+    "explanation_en": "EN 15",
+    "explanation_ur": "UR 15",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 16",
+    "body": "Sample body 16",
+    "category": "disaster",
+    "verdict": "unverified",
+    "confidence_score": 70,
+    "explanation_en": "EN 16",
+    "explanation_ur": "UR 16",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 17",
+    "body": "Sample body 17",
+    "category": "celebrity",
+    "verdict": "misleading",
+    "confidence_score": 71,
+    "explanation_en": "EN 17",
+    "explanation_ur": "UR 17",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 18",
+    "body": "Sample body 18",
+    "category": "other",
+    "verdict": "misleading",
+    "confidence_score": 72,
+    "explanation_en": "EN 18",
+    "explanation_ur": "UR 18",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 19",
+    "body": "Sample body 19",
+    "category": "politics",
+    "verdict": "false",
+    "confidence_score": 73,
+    "explanation_en": "EN 19",
+    "explanation_ur": "UR 19",
+    "sources": [],
+    "language": "en"
+  },
+  {
+    "title": "Sample claim 20",
+    "body": "Sample body 20",
+    "category": "health",
+    "verdict": "misleading",
+    "confidence_score": 74,
+    "explanation_en": "EN 20",
+    "explanation_ur": "UR 20",
+    "sources": [],
+    "language": "en"
+  }
+]

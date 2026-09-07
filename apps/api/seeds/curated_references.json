@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://www.sbp.org.pk/",
+    "title": "State Bank of Pakistan",
+    "publisher": "SBP",
+    "category": "phishing",
+    "keywords": [
+      "sbp",
+      "loan",
+      "otp",
+      "bank"
+    ],
+    "description_en": "Official SBP site"
+  },
+  {
+    "url": "https://www.fia.gov.pk/",
+    "title": "FIA Pakistan",
+    "publisher": "FIA",
+    "category": "phishing",
+    "keywords": [
+      "fia",
+      "cyber",
+      "arrest"
+    ],
+    "description_en": "Federal Investigation Agency"
+  },
+  {
+    "url": "https://www.sbp.org.pk/publications/advisories.html",
+    "title": "SBP Public Advisories",
+    "publisher": "SBP",
+    "category": "phishing",
+    "keywords": [
+      "sbp",
+      "advisory",
+      "loan",
+      "otp",
+      "scam"
+    ],
+    "description_en": "SBP scam advisories"
+  },
+  {
+    "url": "https://www.sbp.org.pk/smfinance/",
+    "title": "SBP SME Finance",
+    "publisher": "SBP",
+    "category": "phishing",
+    "keywords": [
+      "sbp",
+      "loan",
+      "finance"
+    ],
+    "description_en": "SBP SME finance portal"
+  },
+  {
+    "url": "https://www.bisp.gov.pk/",
+    "title": "BISP Official",
+    "publisher": "BISP",
+    "category": "fake_govt",
+    "keywords": [
+      "bisp",
+      "ehsaas",
+      "payment"
+    ],
+    "description_en": "Benazir Income Support Programme"
+  },
+  {
+    "url": "https://www.nadra.gov.pk/",
+    "title": "NADRA",
+    "publisher": "NADRA",
+    "category": "fake_govt",
+    "keywords": [
+      "nadra",
+      "cnic",
+      "identity"
+    ],
+    "description_en": "National Database Authority"
+  }
+]

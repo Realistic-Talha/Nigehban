@@ -1,0 +1,23 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: en-US
+branch: Q0DeR-MaG1C-BrAnCh-Fo2-NoN-GiT-Or-No-C0MmIt
+nodes_managed: true
+exported_at: "2026-08-26T19:18:59Z"
+modules:
+    "":
+        dir_name: Nigehban Workspace Root & Project Configuration
+        title: Nigehban Workspace Root & Project Configuration
+        scope:
+            - .gitignore
+            - docker-compose.yml
+            - package.json
+            - pnpm-workspace.yaml
+            - turbo.json
+            - bun.lock
+            - docs/
+            - .env.example
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []

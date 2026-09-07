@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "check": "Check",
+    "feed": "Feed",
+    "dashboard": "Dashboard",
+    "about": "About",
+    "cta": "Check a message"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "about": "About",
+    "tagline": "Verify before you share."
+  },
+  "home": {
+    "headline": "Verify before you share",
+    "subtitle": "Check scams, claims, and media with AI agents grounded in Pakistani sources.",
+    "scamTitle": "Scam check",
+    "scamDesc": "Paste a suspicious message or screenshot.",
+    "factTitle": "Fact check",
+    "factDesc": "Submit a viral claim for verification.",
+    "mediaTitle": "Media check",
+    "mediaDesc": "Upload an image or video for authenticity signals.",
+    "recent": "Recent verdicts"
+  },
+  "check": {
+    "submit": "Run check",
+    "processing": "Analyzing…",
+    "paste": "Paste text here…",
+    "upload": "Upload or capture",
+    "camera": "Camera",
+    "examples": "Try an example",
+    "verdict": "Verdict",
+    "confidence": "Confidence",
+    "explanation": "Explanation",
+    "sources": "Sources",
+    "share": "Share result",
+    "again": "Check another",
+    "error": "Analysis failed. Try again."
+  },
+  "feed": {
+    "title": "Fact-check feed",
+    "search": "Search claims…",
+    "all": "All"
+  },
+  "dashboard": {
+    "title": "Public dashboard",
+    "claims": "Claims checked",
+    "scams": "Scams reported",
+    "media": "Media analyzed",
+    "today": "Checks today",
+    "trending": "Trending",
+    "window24h": "24h",
+    "window7d": "7d",
+    "window30d": "30d"
+  },
+  "about": {
+    "title": "How Nigehban works",
+    "limitations": "Limitations"
+  }
+}

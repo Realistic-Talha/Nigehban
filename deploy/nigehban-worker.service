@@ -1,0 +1,13 @@
+[Unit]
+Description=Nigehban Pipeline Worker
+After=network.target docker.service nigehban-api.service
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/nigehban/apps/api
+EnvironmentFile=/opt/nigehban/.env
+ExecStart=/usr/bin/python -m app.workers.runner
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

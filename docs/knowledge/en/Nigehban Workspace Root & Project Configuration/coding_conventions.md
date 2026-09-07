@@ -1,0 +1,3 @@
+- Workspace scripts are thin wrappers around Turborepo tasks, keeping per-app commands inside each workspace's own package.json.
+- Environment-sensitive configuration is externalized through `.env` files listed in `.gitignore`, with `.env.example` serving as the single source of truth for required keys.
+- Infrastructure-as-code for local development is centralized in `docker-compose.yml` using pinned images with healthchecks and named volumes for persistence.

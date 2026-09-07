@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+.next/
+out/
+build/
+*.tsbuildinfo
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+.env.local
+.env.*.local
+apps/api/.env
+apps/web/.env.local
+
+# IDE / agent tooling
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+.cursor/
+.qoder/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (AI pipeline)
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Local runtime data / heavy ML artifacts (not for git)
+apps/api/uploads/
+apps/api/models/artifacts/
+*.onnx
+*.joblib
+*.pt
+*.bin
+*.safetensors
+
+# Turbo
+.turbo/
+
+# Misc
+*.log
+.cache/
+terminals/

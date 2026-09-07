@@ -1,0 +1,1 @@
+Root configuration for the Nigehban monorepo — a multi-agent AI fact-check, scam-detection and deepfake-verification portal for Pakistan, defining workspace layout, build orchestration, Docker services, and environment variables.
